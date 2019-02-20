@@ -8,5 +8,4 @@ def my_find(collection)
   end
   i = i + 1
 end
-
 end
